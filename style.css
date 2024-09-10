@@ -1,0 +1,87 @@
+
+#section-1{
+    height: 600px;
+    background: bisque;
+    background-image: url("./public/pillar.jpg");
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#section-1 h1{
+    text-align: center;
+    color: white;
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#section-2{
+    position: absolute;
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    background: rgb(25, 29, 73);
+    padding-top: 60px;
+    color: white;
+}
+#section-2 img{
+    margin: 10px;
+    width: 25px;
+    height: 25px;
+   
+}
+#section-2 a{
+    font-size: 14pt;
+}
+
+#section-3 {
+    color: white;
+    border-radius: 5px;
+    margin-top: 160px;
+    position: absolute;
+    margin-inline: auto; 
+    top: 2;
+    left: 15%;
+    opacity: 1;
+    height: 250px;
+    width: 70%;
+    background: rgb(33, 62, 223);
+    padding: 20px;
+}
+#section-3 small{
+    color: white;
+}
+
+#section-4{
+    text-align: center;
+    margin-top: 480px;
+}
+#pj{
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    margin-right: 100px;
+}
+#pj-image{
+    background-image: url("./public/template-trading-app-justinmind-1.png");
+    background-size: 100%;
+    padding: 50%;
+    width: 200px;
+    height: 220px;
+    border-radius: 20px;
+}
+#projects{
+
+}
+
+
+footer{
+
+}
+
+#logo-name{
+    font-size: 18pt;
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
